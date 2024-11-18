@@ -1,0 +1,12 @@
+Flask==3.0.3
+pylint==3.3.1
+Werkzeug>=3.0.0
+Jinja2>=3.1.2
+itsdangerous>=2.1.2
+blinker>=1.6.2
+platformdirs>=2.2.0
+astroid==3.3.5
+isort==5.13.2
+mccabe==0.7.0
+tomlkit>=0.10.1
+dill>=0.3.6
